@@ -7,7 +7,7 @@ Główne bibliteki:
 * matplotlib
 * requests
 
-Źródło danych [gurustats](https://gurustats.pl/) Stan na dziń 02.07.2025
+Źródło danych [gurustats](https://gurustats.pl/) Stan na dzień 02.07.2025
 
 ![srednia_2024](https://github.com/user-attachments/assets/8fb123f0-3a70-4188-adff-1dda6e9ec1e8)
 
